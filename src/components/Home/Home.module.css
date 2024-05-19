@@ -1,0 +1,32 @@
+.container{
+    min-height: 600px;
+    display: flex;
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.homeHeading{
+    text-align: center;
+    padding: 200px 50px;
+    font-weight: 370;
+    font-size: 2rem;
+    color: #2a64ad;
+}
+
+.build{
+    color: white;
+    background-color: #2a64ad;
+    border: 1px solid #2a64ad;
+    font-weight: 550;
+    font-size: 1.3rem;
+    cursor: pointer;
+    padding: 5px 20px;
+    padding-bottom: 7px;
+    border: 1px solid #2a64ad;
+    border-radius: 10px;
+    transition: 200ms;
+} 
+
+.build:hover{
+    transform: translateY(2px);
+}

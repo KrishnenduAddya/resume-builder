@@ -1,0 +1,11 @@
+
+.skillLabel{
+    width:fit-content;
+    padding: 4px 10px;
+    background-color: #2a64ad;
+    color: white;
+    border-radius: 8px;
+    margin: 5px 3px;
+    font-weight: 500;
+    font-size: 0.93rem;
+}

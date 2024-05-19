@@ -1,0 +1,25 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+  }
+
+textarea {
+    border: 1px solid #cccccc;
+    outline: none;
+    padding: 10px 12px;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-family: 'Segoe UI', 'Roboto';
+  }
+  
+  textarea:hover {
+    border: 1px solid #2a64ad;
+  }
+
+  label {
+    font-weight: 500;
+    font-size: 1rem;
+    text-align: left;
+  }
